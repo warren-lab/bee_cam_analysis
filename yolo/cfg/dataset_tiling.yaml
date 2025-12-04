@@ -1,0 +1,7 @@
+path: path/to/tiled_addfps_090525 # dataset root dir
+train: train # train images (relative to 'path') 4 images
+val: val # val images (relative to 'path') 4 images
+
+# Classes
+names:
+  0: insect

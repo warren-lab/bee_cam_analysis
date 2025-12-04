@@ -1,0 +1,6 @@
+added train from bombus_only to train, moved all original val from tiled_balanced into train, val is now only val from bombus_only
+(train) added corrected annotations and sanitized tiles (blur/noise over bad slices of insect fragments)
+(train) deleted and duplicated select hard FPs/FNs
+(val) removed unlabeled insect fragments and any image of non-bombus
+(train) added FPS from SAHI raw img output
+

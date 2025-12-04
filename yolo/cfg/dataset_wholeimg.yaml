@@ -1,0 +1,7 @@
+path: path/to/bombusvaledit_whole # dataset root dir
+train: train # train images (relative to 'path') 4 images
+val: val # val images (relative to 'path') 4 images
+
+# Classes
+names:
+  0: insect
